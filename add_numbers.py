@@ -11,4 +11,4 @@ def add_two_numbers(a: float, b: float) -> float:
     """
     # TODO: Implement this function
     # Delete the line below and write your implementation
-    return a + a
+    return a + b
